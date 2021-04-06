@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Iskander
+- 👋 Hi, I’m Iskander from Kazakhstan.
 - I'm a game developer, Working on a personal projects in Unity and UE4...
 
 <!---

@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Iskander from Kazakhstan.
-- I'm a game developer, Working on a personal projects in Unity and UE4.
+- 👋 Hi, my name is Iskander I am 15 y.o student from Kazakhstan.
+- Game developer, right now learning C++ for UE4.
+- Also, I love python, doing projects on it too!
 
 <!---
 M9sneek/M9sneek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

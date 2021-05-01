@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Iskander I am 15 y.o student from Kazakhstan.
+- 👋 Hi, my name is Iskander, I am 15 y.o student from Kazakhstan.
 - Game developer, right now learning C++ for UE4.
 - Also, I love python, doing projects on it too!
 
